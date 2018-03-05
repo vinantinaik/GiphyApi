@@ -1,10 +1,22 @@
-form .btn div{
-    margin: 10px;
+form div{
+    padding: 10px;
 
+}
+.row{
+
+    padding: 10px;
 }
 
 .img{
     height: 200px;
     width: 250px;
     padding: 10px;
+}
+
+#country-view{
+    padding: 10px;
+}
+
+.btn-info{
+  margin: 2px;
 }
